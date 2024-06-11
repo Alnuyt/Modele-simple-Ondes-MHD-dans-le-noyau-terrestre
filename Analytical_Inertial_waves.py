@@ -1,10 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Wed Jun  5 16:25:05 2024
-
 @author: alexandrenuyt
 """
+
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.special import jn
